@@ -1,0 +1,43 @@
+body {
+background-color: yellow;
+}
+
+div {
+color: darkblue;
+background-color: yellow;
+}
+
+.span1 {
+color: blue;
+}
+.span2 {
+color: green;
+}
+
+.span3 {
+color: orange;
+}
+
+.span4 {
+color: purple;
+}
+
+.span5 {
+color: red
+}
+
+.span6 {
+color: brown
+}
+
+.span7 {
+color: teal
+}
+
+.span8 {
+color: pink
+}
+
+.span9 {
+color: gray
+}
